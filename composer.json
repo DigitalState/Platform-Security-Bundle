@@ -1,5 +1,5 @@
 {
-  "name": "DigitalState/Platform-Security-Bundle",
+  "name": "digitalstate/platform-security-bundle",
   "type": "symfony-bundle",
   "description": "Digital State Security Bundle",
   "homepage": "https://github.com/DigitalState/Platform-Security-Bundle.git",
