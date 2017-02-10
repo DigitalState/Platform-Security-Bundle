@@ -2,6 +2,9 @@
 
 The Security bundle extends the [OroSecurityBundle](https://github.com/orocrm/platform/tree/master/src/Oro/Bundle/SecurityBundle) and provides the developers additional core security functionality. 
 
+[![Code Climate](https://codeclimate.com/github/DigitalState/Platform-Security-Bundle/badges/gpa.svg)](https://codeclimate.com/github/DigitalState/Platform-Security-Bundle)
+[![Test Coverage](https://codeclimate.com/github/DigitalState/Platform-Security-Bundle/badges/coverage.svg)](https://codeclimate.com/github/DigitalState/Platform-Security-Bundle/coverage)
+
 ## Table of Contents
 
 - [Migration Extensions](#migration-extensions)
